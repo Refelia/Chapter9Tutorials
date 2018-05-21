@@ -1,0 +1,55 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio 15
+VisualStudioVersion = 15.0.27130.2027
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Tutorial9-1to-9-6", "Tutorial9-1to-9-6\Tutorial9-1to-9-6.csproj", "{6E5CD952-60E5-4F04-8463-67266CB2AF5F}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "CellphoneTest", "CellphoneTest\CellphoneTest.csproj", "{6F30AAEA-7129-4967-B703-90606749A7A1}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "AccountSimulator", "AccountSimulator\AccountSimulator.csproj", "{4BA7183A-F1D4-48DB-BD57-EE0995A6014B}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "CellPhoneInventory", "CellPhoneInventory\CellPhoneInventory.csproj", "{52FF4922-1C22-43F5-8D18-D6EDE51D4667}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "TwoForms", "TwoForms\TwoForms.csproj", "{EE31D743-C4A8-47B6-B72E-762BD842A7AA}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "AccessingControlDifferentForm", "AccessingControlDifferentForm\AccessingControlDifferentForm.csproj", "{40769441-0F28-4867-A6DC-9AB8EDF0AF15}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{6E5CD952-60E5-4F04-8463-67266CB2AF5F}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{6E5CD952-60E5-4F04-8463-67266CB2AF5F}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{6E5CD952-60E5-4F04-8463-67266CB2AF5F}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{6E5CD952-60E5-4F04-8463-67266CB2AF5F}.Release|Any CPU.Build.0 = Release|Any CPU
+		{6F30AAEA-7129-4967-B703-90606749A7A1}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{6F30AAEA-7129-4967-B703-90606749A7A1}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{6F30AAEA-7129-4967-B703-90606749A7A1}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{6F30AAEA-7129-4967-B703-90606749A7A1}.Release|Any CPU.Build.0 = Release|Any CPU
+		{4BA7183A-F1D4-48DB-BD57-EE0995A6014B}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{4BA7183A-F1D4-48DB-BD57-EE0995A6014B}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{4BA7183A-F1D4-48DB-BD57-EE0995A6014B}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{4BA7183A-F1D4-48DB-BD57-EE0995A6014B}.Release|Any CPU.Build.0 = Release|Any CPU
+		{52FF4922-1C22-43F5-8D18-D6EDE51D4667}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{52FF4922-1C22-43F5-8D18-D6EDE51D4667}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{52FF4922-1C22-43F5-8D18-D6EDE51D4667}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{52FF4922-1C22-43F5-8D18-D6EDE51D4667}.Release|Any CPU.Build.0 = Release|Any CPU
+		{EE31D743-C4A8-47B6-B72E-762BD842A7AA}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{EE31D743-C4A8-47B6-B72E-762BD842A7AA}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{EE31D743-C4A8-47B6-B72E-762BD842A7AA}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{EE31D743-C4A8-47B6-B72E-762BD842A7AA}.Release|Any CPU.Build.0 = Release|Any CPU
+		{40769441-0F28-4867-A6DC-9AB8EDF0AF15}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{40769441-0F28-4867-A6DC-9AB8EDF0AF15}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{40769441-0F28-4867-A6DC-9AB8EDF0AF15}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{40769441-0F28-4867-A6DC-9AB8EDF0AF15}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {E6DBB010-DE37-444F-9DC3-77D0773C5C56}
+	EndGlobalSection
+EndGlobal

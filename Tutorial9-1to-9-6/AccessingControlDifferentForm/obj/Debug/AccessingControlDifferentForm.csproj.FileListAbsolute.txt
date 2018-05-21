@@ -1,0 +1,11 @@
+C:\Users\MTCStudent\Desktop\Tutorial9-1to-9-6\AccessingControlDifferentForm\bin\Debug\AccessingControlDifferentForm.exe.config
+C:\Users\MTCStudent\Desktop\Tutorial9-1to-9-6\AccessingControlDifferentForm\bin\Debug\AccessingControlDifferentForm.exe
+C:\Users\MTCStudent\Desktop\Tutorial9-1to-9-6\AccessingControlDifferentForm\bin\Debug\AccessingControlDifferentForm.pdb
+C:\Users\MTCStudent\Desktop\Tutorial9-1to-9-6\AccessingControlDifferentForm\obj\Debug\AccessingControlDifferentForm.csprojResolveAssemblyReference.cache
+C:\Users\MTCStudent\Desktop\Tutorial9-1to-9-6\AccessingControlDifferentForm\obj\Debug\AccessingControlDifferentForm.MainForm.resources
+C:\Users\MTCStudent\Desktop\Tutorial9-1to-9-6\AccessingControlDifferentForm\obj\Debug\AccessingControlDifferentForm.NutritionalForm.resources
+C:\Users\MTCStudent\Desktop\Tutorial9-1to-9-6\AccessingControlDifferentForm\obj\Debug\AccessingControlDifferentForm.Properties.Resources.resources
+C:\Users\MTCStudent\Desktop\Tutorial9-1to-9-6\AccessingControlDifferentForm\obj\Debug\AccessingControlDifferentForm.csproj.GenerateResource.Cache
+C:\Users\MTCStudent\Desktop\Tutorial9-1to-9-6\AccessingControlDifferentForm\obj\Debug\AccessingControlDifferentForm.csproj.CoreCompileInputs.cache
+C:\Users\MTCStudent\Desktop\Tutorial9-1to-9-6\AccessingControlDifferentForm\obj\Debug\AccessingControlDifferentForm.exe
+C:\Users\MTCStudent\Desktop\Tutorial9-1to-9-6\AccessingControlDifferentForm\obj\Debug\AccessingControlDifferentForm.pdb

@@ -1,0 +1,10 @@
+C:\Users\MTCStudent\Desktop\Tutorial9-1to-9-6\AccountSimulator\obj\Debug\AccountSimulator.Form1.resources
+C:\Users\MTCStudent\Desktop\Tutorial9-1to-9-6\AccountSimulator\obj\Debug\AccountSimulator.Properties.Resources.resources
+C:\Users\MTCStudent\Desktop\Tutorial9-1to-9-6\AccountSimulator\obj\Debug\AccountSimulator.csproj.GenerateResource.Cache
+C:\Users\MTCStudent\Desktop\Tutorial9-1to-9-6\AccountSimulator\obj\Debug\AccountSimulator.csproj.CoreCompileInputs.cache
+C:\Users\MTCStudent\Desktop\Tutorial9-1to-9-6\AccountSimulator\bin\Debug\AccountSimulator.exe.config
+C:\Users\MTCStudent\Desktop\Tutorial9-1to-9-6\AccountSimulator\bin\Debug\AccountSimulator.exe
+C:\Users\MTCStudent\Desktop\Tutorial9-1to-9-6\AccountSimulator\bin\Debug\AccountSimulator.pdb
+C:\Users\MTCStudent\Desktop\Tutorial9-1to-9-6\AccountSimulator\obj\Debug\AccountSimulator.csprojResolveAssemblyReference.cache
+C:\Users\MTCStudent\Desktop\Tutorial9-1to-9-6\AccountSimulator\obj\Debug\AccountSimulator.exe
+C:\Users\MTCStudent\Desktop\Tutorial9-1to-9-6\AccountSimulator\obj\Debug\AccountSimulator.pdb
